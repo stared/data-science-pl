@@ -26,6 +26,8 @@ Aktywne grupy zajmujące się data sciene. Z językami.
 
 * [SER: Spotkania Entuzjastów R](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/) (PL/EN)
 * [warsaw.ai](https://warsaw.ai/) (EN)
+* [Data Science Warsaw](https://www.meetup.com/Data-Science-Warsaw/) (PL/EN)
+* [PyWaw](https://www.meetup.com/PyWaw-Python-Warsaw-User-Group/) (PL/EN)
 
 ### Kraków
 
