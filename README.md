@@ -14,6 +14,9 @@ Ogólnie linkowanie do wątków na Data Science PL mile widziane.
 * Q: Mam X lat i N kotów (z czago relację z N-1 kotami uważam za skomplikowaną). Czy jest sens, bym się uczyła data science?
 * A: Tak.
 
+* Q: A od czego zacząć uczenie się?
+* A: Od przeczytania [blog posta admina, co to jest data science i czego zacząć się uczyć](https://p.migdal.pl/2016/03/15/data-science-intro-for-math-phys-background.html).
+
 
 ## Grupy i meetupy
 
