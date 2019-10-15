@@ -11,7 +11,7 @@ Ogólnie linkowanie do wątków na Data Science PL mile widziane.
 
 ## FAQ
 
-* Q: Mam X lat i N kotów (z czago relację z N-1 kotami uważam za skomplikowaną). Czy jest sens, bym się uczyła data science?
+* Q: Mam X lat N kotów, M psów i kanarka. Czy jest sens, bym się uczył/uczyła data science?
 * A: Tak.
 
 * Q: A od czego zacząć uczenie się?
