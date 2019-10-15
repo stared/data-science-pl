@@ -41,7 +41,7 @@ Aktywne grupy zajmujące się data sciene. Z językami.
 
 
 ## Blogi
-
+* [Damian Bogunowicz](https://dtransposed.github.io/)
 * [SmarterPoland](http://smarterpoland.pl/)
 * [Piotr Migdał](https://p.migdal.pl/)
 * Tu jest miejsce na Twój (przynajmniej 3 wpisy z charakteru data science)
