@@ -29,6 +29,10 @@ Aktywne grupy zajmujące się data sciene. Z językami.
 * [Data Science Warsaw](https://www.meetup.com/Data-Science-Warsaw/) (PL/EN)
 * [PyWaw](https://www.meetup.com/PyWaw-Python-Warsaw-User-Group/) (PL/EN)
 
+### Poznań
+
+* [Koło Naukowe GHOST](http://ghost.put.poznan.pl/) (PL)
+
 ### Kraków
 
 
@@ -36,6 +40,7 @@ Aktywne grupy zajmujące się data sciene. Z językami.
 
 (To pewnie zasługuje na oddzielną stronkę.)
 
+* [GHOST Day](http://ghostday.pl/), 8 list 2019, Poznań
 * [ML in PL](https://conference.mlinpl.org/), 22-25 list 2019, Warszawa
 * [PyData Warsaw 2019](https://pydata.org/warsaw2019/), 12-13 gru 2019, Warszawa
 
