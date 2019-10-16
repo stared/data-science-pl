@@ -16,6 +16,10 @@ Ogólnie linkowanie do wątków na Data Science PL mile widziane.
 
 * Q: A od czego zacząć uczenie się?
 * A: Od przeczytania [blog posta admina, co to jest data science i czego zacząć się uczyć](https://p.migdal.pl/2016/03/15/data-science-intro-for-math-phys-background.html).
+* Q: Jestem początkujący w datascience, od jakich bibliotek mam zacząc naukę?
+* A: Numpy, pandas, matplotlib
+* Q: Jestem początkujący w machine learning, od jakich bibliotek mam zacząc naukę?
+* A: Scikit-learn
 
 
 ## Grupy i meetupy
@@ -49,6 +53,7 @@ Aktywne grupy zajmujące się data sciene. Z językami.
 * [Damian Bogunowicz](https://dtransposed.github.io/)
 * [SmarterPoland](http://smarterpoland.pl/)
 * [Piotr Migdał](https://p.migdal.pl/)
+* [ksopyla.com- About Data](https://ksopyla.com)
 * Tu jest miejsce na Twój (przynajmniej 3 wpisy z charakteru data science)
 
 ## Raporty
